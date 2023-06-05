@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Andrea, a passionate frontend developer from Madrid. I was a student in [Adalab](https://adalab.es/) and I currently combine my work with my studies at 42 Madrid [42 Madrid](https://www.42madrid.com/)! 🌱 
+I'm Andrea, a passionate frontend developer from Madrid. I was a student in [Adalab](https://adalab.es/) and I currently combine my work with my studies at [42 Madrid](https://www.42madrid.com/)! 🌱 
 
 
 <h4 align="left">Feel free to contact me:</h4>
