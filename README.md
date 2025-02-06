@@ -21,7 +21,6 @@ I'm Andrea, a passionate frontend developer from Madrid. I was a student in [Ada
 <h4 align="left">Feel free to contact me:</h4>
 <p align="left">
  <a href="https://linkedin.com/in/andreaalonsocor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andalons" width="20" /></a>
-<a href="https://twitter.com/andrea_a_cor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andrea_a_cor" width="20"/></a>
 <a href="https://instagram.com/andrea.a.cor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andrea.a.cor" width="20" /></a>
 </p>
 
