@@ -1,39 +1,58 @@
-### Hi there!
+### Hi there! 👋
 
-<!--
-**andalons/andalons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Andrea, an **AI & Web Developer** from Madrid with 3+ years of professional experience in frontend development and a strong focus on Artificial Intelligence. I combine modern web technologies with AI to build scalable, data-driven applications.
 
-Here are some ideas to get you started:
+🌱 Recently completed an AI Developer Course at [Factoría F5](https://factoriaf5.org/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently working on end-to-end AI applications that leverage LLMs, NLP, computer vision, and data science workflows.
 
-I'm Andrea, a passionate frontend developer from Madrid. I was a student in [Adalab](https://adalab.es/) and I currently combine my work with my studies at [42 Madrid](https://www.42madrid.com/)! 🌱 
-
+💡 Passionate about creating full-stack applications—from data pipelines and dashboards to multi-agent systems and generative AI applications.
 
 <h4 align="left">Feel free to contact me:</h4>
 <p align="left">
- <a href="https://linkedin.com/in/andreaalonsocor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andalons" width="20" /></a>
-<a href="https://instagram.com/andrea.a.cor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andrea.a.cor" width="20" /></a>
+ <a href="https://linkedin.com/in/andreaalonsocor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andreaalonsocor" width="20" /></a>&ensp;
+ <a href="mailto:aalonsocorbeira@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="email" width="20" /></a>
 </p>
 
-<h4 align="left">Languages and Tools:</h4>
-<p align="left"> 
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30"/> </a>
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30"/> </a> 
- <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="30"/> </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30"/> </a>
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30"/> </a> 
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30"/> </a>   
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30"/> </a>  
- <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30"/> </a>  
- <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30"/> </a> 
- <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30"/> </a> 
- <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30"/> </a> </p>
+
+---
+
+### 🛠️ Technologies & Skills
+
+**Frontend Development**  
+HTML5 • CSS3 • Sass • JavaScript (ES6+) • TypeScript • React.js • Next.js • Vue 3 • Tailwind CSS • Redux
+
+**Backend & APIs**  
+Python • FastAPI • Node.js • Express • REST APIs • GraphQL • Postman
+
+**Databases**  
+PostgreSQL • MySQL • SQLite • MongoDB • SQLAlchemy • Supabase
+
+**AI & Machine Learning**  
+PyTorch • TensorFlow • Keras • scikit-learn • XGBoost • LightGBM • Pandas • NumPy
+
+**Generative AI & LLMs**  
+LangChain • LangGraph • RAG pipelines • Embeddings • Vector databases (ChromaDB) • HuggingFace Transformers
+
+**NLP & Computer Vision**  
+DistilBERT • OpenCV • CNNs • Natural Language Processing
+
+**Data Engineering & Analytics**  
+Microsoft Fabric • Medallion Architecture • Power BI • Jupyter Notebook • Matplotlib • Seaborn • Plotly
+
+**DevOps & Cloud**  
+Docker • Docker Compose • Vercel • Render • CI/CD
+
+
+---
+
+### 🌍 Languages
+
+- **Spanish:** Native
+- **English:** Advanced (C1)
+- **French:** Basic
+
+
+---
+
+✨ I'm always learning and exploring new technologies. Feel free to check out my projects and reach out if you'd like to collaborate!
